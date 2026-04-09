@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: HUNTER AI Assistant",
+  "description": "A real-time, witty, and sassy voice-to-voice AI assistant named HUNTER.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
